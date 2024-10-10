@@ -1,21 +1,21 @@
-# Divvy-s-Bikeshare-System-
+## Divvy-s-Bikeshare-System-
 Divvy's Bikeshare System: Analyzing Usage Trends
 
-Data Source
+### Data Source
 1.	The dataset: ‘Divvy Data’ from 2013 – 2019 is a collection of information from the Divvy bike-sharing service. 
    
-a.	Data source summary: Chicagoland’s bike share system across Chicago and Evanston.
+### a.	Data source summary: Chicagoland’s bike share system across Chicago and Evanston.
 •	Data set sourced from: Divvy Trips - Catalog (data.gov)
 •	Type of data: external.
 •	Data owner: The Divvy dataset is owned by Lyft, the parent company of Divvy, which operates the bike-sharing system. However, the data is often made publicly available by the City of Chicago through its Chicago Data Portal as part of open data initiatives.
 •	Trustworthiness: the Divvy dataset is trustworthy as it comes from the official Chicago Data Portal, sourced directly from Divvy's real-world operations, and is regularly updated and cleaned for accuracy and reliability.
 
-b.	Data collection method: 
+### b.	Data collection method: 
 •	Type of data: The dataset is a unique blend of administrative and observational data.
 •	Collection method: data has been collected through a combination of automated and manual processes.
 •	Time Lag: typically followed a monthly update cycle, meaning there was usually a delay of around one to two months from when the bike trips occurred to when the data was published.
 
-c.	Data Overview
+### c.	Data Overview
 Variables:
 1. trip_id: Unique identifier for each trip.
 2. start_time:Timestamp of when the trip started.
@@ -34,7 +34,7 @@ Variables:
 16. Latitude/longitude (from/to): Geographic coordinates of the start/end stations
 
     
-d. Why this dataset was chosen 
+### d. Why this dataset was chosen 
 I find the Divvy dataset to be a great learning tool because it provides real-world data, allowing me to work on meaningful analysis with practical applications. The variety of data types—categorical, numerical, and datetime—helps me develop crucial skills in handling different formats and cleaning messy data. Its complexity challenges me to explore relationships between variables, like trip durations and user types, pushing me to think critically and uncover patterns. I also get to practice data wrangling, exploratory data analysis (EDA), and visualizations, which are essential for any data analyst. Since the dataset is scalable, I can start with simple questions and gradually move to more advanced analysis, making it perfect for both beginners and advanced learners.
 
     
