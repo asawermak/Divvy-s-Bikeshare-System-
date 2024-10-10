@@ -1,0 +1,1 @@
+https://data.cityofchicago.org/api/views/fg6s-gzvg/rows.csv?accessType=DOWNLOAD
