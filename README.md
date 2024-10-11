@@ -37,5 +37,8 @@ Variables:
 ### d. Why this dataset was chosen 
 I find the Divvy dataset to be a great learning tool because it provides real-world data, allowing me to work on meaningful analysis with practical applications. The variety of data types—categorical, numerical, and datetime—helps me develop crucial skills in handling different formats and cleaning messy data. Its complexity challenges me to explore relationships between variables, like trip durations and user types, pushing me to think critically and uncover patterns. I also get to practice data wrangling, exploratory data analysis (EDA), and visualizations, which are essential for any data analyst. Since the dataset is scalable, I can start with simple questions and gradually move to more advanced analysis, making it perfect for both beginners and advanced learners.
 
-    
+Link to Data visualization:
+https://public.tableau.com/app/profile/asawer.maknoon/viz/AnalyzingUsageTrendsinDivvysBikeshareSystem2017-2019/Story1?publish=yes 
 
+Portafolio
+PDF File contains the Portafolio
